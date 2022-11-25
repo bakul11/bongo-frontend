@@ -11,8 +11,7 @@ const MoviePlay = ({ singleMovie }) => {
     }
 
     const playPhoto = {
-        height: '265px',
-        // width: '175px',
+        height: '230px',
         borderRadius: '7px',
         cursor: 'pointer'
     }
